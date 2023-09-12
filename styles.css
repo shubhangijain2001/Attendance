@@ -1,0 +1,27 @@
+.match-box{
+    background-color: rgb(146, 212, 212);
+    height:60px;
+    width:100%;
+   margin-bottom: 4px;
+    border-radius: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    /* text-align: left; */
+
+}
+p{
+    padding-bottom: 1px;
+}
+.dateWrapper{
+    display: flex;
+    flex-direction: column;
+}
+label[for="day"]{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.yearWrapper{
+   text-align: center;
+}
